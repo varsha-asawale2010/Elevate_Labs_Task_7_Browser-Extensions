@@ -1,0 +1,1 @@
+# Elevate_Labs_Task_7_Browser-Extensions
