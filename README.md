@@ -3,7 +3,7 @@
 A browser extension (also known as an add‑on or plug‑in) is a small software module you install into your web browser (like Chrome, Firefox, Edge, or Safari) that adds new features or customizes how web pages and the browser itself work.<br>
 ### Step of remove suspicious browser extensions<br>
 Step 1:- Open Your Browser (e.g Chrome, Firefox).<br>
-Step 2:- Click On Three Dots Menu (top Right) Corner.<br>
+Step 2:- Click On Three Dots Menu (Top Right) Corner.<br>
 Step 3:- Click On Extension----> Manage Extensions.<br>
 Step 4:- Find The Extensions You Want to Remove<br>
 Step 5:- Review Your Extension Details And Suspicious Permision.<br>
