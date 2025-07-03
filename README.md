@@ -7,7 +7,7 @@ Step 2:- Click On Three Dots Menu (top Right) Corner.<br>
 Step 3:- Click On Extension----> Manage Extensions.<br>
 Step 4:- Find The Extensions You Want to Remove<br>
 Step 5:- Review Your Extension Details And Suspicious Permision.<br>
-Step 6:- Click Remove------->Confirm in the pop-up<br>
+Step 6:- Click On Remove Extension------->Confirm in the pop-up<br>
 Step 7:- Restart Browser<br>
 ### How malicious extensions can harm users.
 1. Malicious browser extensions can significantly harm users by stealing sensitive information, hijacking accounts, injecting malware, and manipulating search results. They can compromise user privacy, security, and financial well-being. <br>
